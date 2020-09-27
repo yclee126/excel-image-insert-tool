@@ -73,7 +73,7 @@ def main(cell_w_str, cell_h_str, files):
         ws.add_image(img)
 
     # save file
-    wb.save('test.xlsx')
+    wb.save('images.xlsx')
 
 
 if __name__ == '__main__':
